@@ -1,0 +1,22 @@
+*Variables:
+Una variable en Javascript es como una caja, donde se pueden guardar cosas. Por ejemplo, si quieres recordar tu nombre, puedes crear una caja llamada "nombre" y  ahi poner tu nombre.
+Luego, cuando quieras usar tu nombre solo debes abrir la caja y ver lo que hay dentro.
+
+*Strings:
+Los Strings son como palabras o frases que se usan para mostrar texto en un programa. Por ejemplo si quieres decir "Hola mundo" en tu programa puedes usar un String.
+Para crear un String, debes escribir el texto que quieres mostrar entre comillas. Puedes usar las comillas simples o las comillas dobles, y debes de asegurarte de usar el mismo tipo de comillas al inicio y al final del String.
+
+*Funciones (argumentos, `return`):
+Una función es como una máquina que hace algo cuando le pedimos que lo haga. En JavaScript, podemos hacer que una función haga cualquier cosa que queramos, como decir hola a alguien o sumar dos números. Esto es muy util porque nos permiten escribir código una sola vez y luego usarlo muchas veces sin tener que escribirlo de nuevo
+
+     -Argumentos:
+     Los argumentos son valores que se le dan a una función cuando se llama. Por ejemplo, si tenemos una función que dice hola a alguien, podemos darle un argumento que es el nombre de la persona a la que queremos decir hola.
+
+     -Return:
+     El return se utiliza en las funciones de JavaScript para decirle a la función que termine y devuelva un valor. Por ejemplo, si tenemos una función que suma dos números y queremos que la función devuelva el resultado de la suma, podemos usar el return para hacerlo.
+
+*Declaraciones `if`:
+La declaracion "if" te permite tomar una decicion y ejecutar diferentes bloques de codigo en funcion de si se cumple o no se cumple una condición.
+
+*Valores booleanos (`true`, `false`)
+Los valores booleanos son un tipo de valor que sólo pueden tener dos opciones: verdadero o falso. En la JavaScript, estos valores se utilizan para tomar decisiones y hacer cosas sólo si se cumplen ciertas condiciones.
